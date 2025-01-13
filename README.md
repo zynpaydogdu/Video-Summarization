@@ -41,7 +41,7 @@ Before running this project, ensure you have the following installed:
 
 1. Run the application:
    ```bash
-   python main.py
+   python GUI.py
    ```
 
 2. Use the GUI to upload an MP4 video file.
